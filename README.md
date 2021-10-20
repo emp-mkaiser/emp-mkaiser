@@ -1,3 +1,11 @@
+# GPG
+## Fingerprint
+```
+602F ABD4 01E4 4220 AB4E  9EE3 4FCB 4203 256E 18FC
+```
+
+## Public Key 
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
